@@ -113,6 +113,7 @@
   }
   header .inner .header-menu a {
     display: block;
+    text-align: left;
   }
   header .inner .header-menu.active {
     left: 0;
